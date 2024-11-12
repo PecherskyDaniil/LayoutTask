@@ -1,0 +1,5 @@
+module LayoutsTaskDP
+typeinfo appLayoutsTaskDP.qmltypes
+prefer :/
+RectRandCol 1.0 qml/RectRandCol.qml
+
